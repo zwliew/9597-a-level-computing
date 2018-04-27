@@ -1,0 +1,13 @@
+{% extends 'layout.html' %}
+
+{% block content %}
+  {# Check the user age #}
+  <h1>Hi, {{ name }}!</h1>
+  {% if age < 18 %}
+    <h2>You're a minor!</h2>
+  {% elif age <= 65 %}
+    <h2>You're an adult!</h2>
+  {% else %}
+    <h2>You're a senior citizen!</h2>
+  {% endif %}
+{% endblock %}

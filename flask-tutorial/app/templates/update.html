@@ -1,0 +1,6 @@
+{% extends 'layout.html' %}
+
+{% block content %}
+  {% include 'messageboard.html' %}
+  <form action="{{url_for('update')}}"></form>
+{% endblock %}

@@ -1,0 +1,23 @@
+{% extends 'layout.html' %}
+
+{% block content %}
+  <table>
+    <thead>
+      <th>Posting ID</th>
+      <th>Username</th>
+      <th>Email</th>
+      <th>Message</th>
+    </thead>
+    <tbody>
+      {% for post in records %}
+      <tr>
+        <td>{{post['id']}}</td>
+        <td>{{post['username']}}</td>
+        <td>{{post['email']}}</td>
+        <td>{{post['message']}}</td>
+      </tr>
+      {% endfor %}
+    </tbody>
+  </table>
+  <p><a href="{{ url_for('get_form') }}">Post again</a></p>
+{% endblock %}

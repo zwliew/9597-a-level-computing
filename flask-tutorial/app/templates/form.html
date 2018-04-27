@@ -1,0 +1,11 @@
+{% extends 'layout.html' %}
+
+{% block content %}
+  <form method="post" action="{{ url_for('post_form') }}">
+    <p>Name: <input type="text" placeholder="Name" name="username"></p>
+    <p>E-mail: <input type="email" name="email"></p>
+    <p>Message:</p>
+    <p><textarea name="message" rows="3" cols="50"></textarea></p>
+    <p><input type="submit" value="Post now"></p>
+  </form>
+{% endblock %}
