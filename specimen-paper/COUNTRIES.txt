@@ -1,0 +1,492 @@
+Afghanistan
+29.121
+Albania
+2.987
+Algeria
+34.586
+American Samoa
+0.066
+Andorra
+0.085
+Angola
+13.068
+Anguilla
+0.015
+Antarctica
+0.001
+Antigua & Barbuda
+0.087
+Antilles
+0.229
+Saudi Arabia
+25.732
+Argentina
+41.343
+Armenia
+2.967
+Aruba
+0.105
+Austria
+8.214
+Azerbaijan
+8.304
+Bahamas
+0.31
+Bahrain
+0.738
+Bangladesh
+158.066
+Barbados
+0.286
+Belarus
+9.613
+Belgium
+10.423
+Belize
+0.315
+Benin
+9.056
+Bermuda
+0.068
+Bhutan
+0.7
+Bolivia
+9.947
+Bosnia and Herzegovina
+4.622
+Botswana
+2.029
+Brazil
+201.103
+British Virgin Islands
+0.025
+Brunei Darussalam
+0.395
+Bulgaria
+7.149
+Burkina Faso
+16.242
+Burundi
+9.863
+Cambodia
+14.753
+Cameroon
+19.294
+Canada
+33.76
+Cape Verde
+0.509
+Cayman Islands
+0.05
+Central African Republic
+4.845
+Chad
+10.543
+Chile
+16.746
+China
+1330.141
+Christmas Island
+0.001
+Cocosg Islands
+0.001
+Colombia
+44.205
+Comoros
+0.773
+Congo
+4.126
+Dem. Rep. of the Congo
+70.916
+Cook Islands
+0.012
+Costa Rica
+4.516
+Ivory Coast
+21.059
+Croatia
+4.487
+Cuba
+11.477
+Cyprus
+1.103
+Czech Republic
+10.202
+Denmark
+5.516
+Djibouti
+0.741
+Dominica
+0.073
+Dominican Republic
+9.824
+East Timor
+1.155
+Ecuador
+14.791
+Egypt
+80.472
+El Salvador
+6.052
+Equatorial Guinea
+0.651
+Eritrea
+5.793
+Estonia
+1.291
+Ethiopia
+88.013
+Falkland Islands
+0.003
+Faroe Islands
+0.049
+Fiji
+0.945
+Finland
+5.256
+France
+64.768
+French Guiana
+0.236
+French Polynesia
+0.287
+Gabon
+1.824
+Gambia
+1.824
+Georgia
+4.601
+Germany
+82.283
+Ghana
+24.34
+Gibraltar
+0.029
+Greece
+10.75
+Greenland
+0.058
+Grenada
+0.108
+Guadeloupe
+0.444
+Guam
+0.178
+Guatemala
+13.55
+Guernsey and Alderney
+0.065
+French Guiana
+0.236
+Guinea
+10.324
+Guinea-Bissau
+1.565
+Equatorial Guinea
+0.651
+Guyana
+0.748
+Haiti
+9.649
+Honduras
+7.989
+Hong Kong
+7.09
+Hungary
+9.992
+Iceland
+0.309
+India
+1173.108
+Indonesia
+242.968
+Iran
+76.923
+Iraq
+29.672
+Ireland
+4.623
+Israel
+7.354
+Italy
+58.091
+Ivory Coast
+21.059
+Jamaica
+2.847
+Japan
+126.804
+Jersey
+0.093
+Jordan
+6.407
+Kazakhstan
+15.46
+Kenya
+40.047
+Kiribati
+0.113
+North Korea
+22.757
+South Korea
+48.636
+Kosovo
+1.815
+Kuwait
+2.789
+Kyrgyzstan
+5.509
+Lao People's  Dem. Rep.
+6.994
+Latvia
+2.218
+Lebanon
+4.125
+Lesotho
+1.92
+Liberia
+3.685
+Libyan Arab Jamahiriya
+6.461
+Liechtenstein
+0.035
+Lithuania
+3.545
+Luxembourg
+0.498
+Macao
+0.568
+Macedonia
+2.072
+Madagascar
+21.282
+Malawi
+15.448
+Malaysia
+26.16
+Maldives
+0.396
+Mali
+13.796
+Malta
+0.407
+Man, Isle of
+0.084
+Marshall Islands
+0.065
+Martinique
+0.406
+Mauritania
+3.205
+Mauritius
+1.294
+Mayotte
+0.231
+Mexico
+112.469
+Micronesia
+0.107
+Middle East
+212.337
+Moldova
+4.317
+Monaco
+0.031
+Mongolia
+3.087
+Montenegro
+0.667
+Montserrat
+0.005
+Morocco
+31.627
+Mozambique
+22.061
+Myanmar
+53.414
+Namibia
+2.128
+Nauru
+0.014
+Nepal
+28.952
+Netherlands
+16.783
+Netherlands Antilles
+0.229
+New Caledonia
+0.227
+New Zealand
+4.213
+Nicaragua
+5.996
+Niger
+15.878
+Nigeria
+152.217
+Niue
+0.002
+Norfolk Island
+0.003
+Northern Mariana Islands
+0.051
+Norway
+4.676
+Oman
+2.968
+Pakistan
+177.277
+Palau
+0.021
+Palestinian Territory
+2.515
+Panama
+3.411
+Papua New Guinea
+5.941
+Paraguay
+6.376
+Peru
+29.907
+Philippines
+99.9
+Poland
+38.464
+Portugal
+10.736
+Puerto Rico
+3.979
+Qatar
+0.841
+Reunion
+0.823
+Romania
+21.959
+Russia
+139.39
+Rwanda
+11.056
+Sahara, Western
+0.492
+Saint Barthelemy
+0.007
+Saint Helena
+0.008
+Saint Kitts and Nevis
+0.05
+Saint Lucia
+0.161
+Saint Martin
+0.03
+S Pierre & Miquelon
+0.006
+S Vincent & Grenadines
+0.104
+Samoa
+0.22
+San Marino
+0.031
+Sao Tome and Principe
+0.176
+Saudi Arabia
+25.732
+Senegal
+14.086
+Serbia
+7.345
+Seychelles
+0.088
+Sierra Leone
+5.246
+Singapore
+4.701
+Slovakia
+5.47
+Slovenia
+2.003
+Solomon Islands
+0.596
+Somalia
+10.112
+South Africa
+49.109
+Spain
+46.506
+Sri Lanka
+21.514
+Sudan
+41.98
+Suriname
+0.487
+Svalbard & Jan Mayen Islands
+0.002
+Swaziland
+1.354
+Sweden
+9.074
+Switzerland
+7.623
+Syrian Arab Republic
+22.198
+Taiwan
+23.025
+Tajikistan
+7.487
+Tanzania
+41.893
+Thailand
+66.405
+East Timor
+1.155
+Togo
+6.2
+Tokelau
+0.001
+Tonga
+0.121
+Trinidad & Tobago
+1.229
+Tunisia
+10.589
+Turkey
+77.804
+Turkmenistan
+4.941
+Turks and Caicos Islands
+0.024
+Tuvalu
+0.012
+Uganda
+33.399
+Ukraine
+45.416
+United Arab Emirates
+4.976
+United Kingdom
+62.348
+Uruguay
+3.51
+Uzbekistan
+27.866
+Vanuatu
+0.219
+Vatican City
+0.001
+Venezuela
+27.223
+Vietnam
+89.571
+British Virgin Islands
+0.025
+U.S. Virgin Islands
+0.11
+Wallis and Futuna
+0.015
+Western Sahara
+0.492
+Yemen
+23.495
+Zambia
+12.057
+Zimbabwe
+11.652
