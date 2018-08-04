@@ -1,0 +1,44 @@
+﻿FUNCTION FindNode(NodeValue) RETURNS INTEGER    
+	Found ← FALSE   
+	CurrentPosition ← Root   
+	REPEAT       
+		IF RobotData[CurrentPosition].DataValue = NodeValue THEN            
+			Found ← TRUE      
+		ELSE            
+			CurrentPosition ← CurrentPosition + 1      
+		ENDIF   
+	UNTIL Found = TRUE OR CurrentPosition > 25   
+	IF CurrentPosition > 25 THEN      
+		RETURN 0   
+	ELSE      
+		RETURN CurrentPosition   
+	ENDIF
+ENDFUNCTION
+
+PROCEDURE AddToRobotData(NewDataItem, ParentItem, ThisMove)      
+	IF Root = 1 AND NextFreeChild = 1 THEN         
+		NextFreeChild ← RobotData[NextFreeChild].LeftChild         
+		RobotData[Root].LeftChild ← 0         
+		RobotData[Root].DataValue ← NewDataItem      
+	ELSE          
+		// does the parent exist?         
+		ParentPosition ← FindNode(ParentItem)         
+		IF ParentPosition > 0 THEN  // parent exists               
+			// does the child exist?               
+			ExistingChild ← FindNode(NewDataItem)               
+			IF ExistingChild > 0 THEN // child exists                  
+				ChildPointer ← ExistingChild               
+			ELSE                  
+				ChildPointer ← NextFreeChild                  
+				NextFreeChild ← RobotData[NextFreeChild].LeftChild                  
+				RobotData[ChildPointer].LeftChild ← 0                  
+				RobotData[ChildPointer].DataValue ← NewDataItem               
+			ENDIF               
+			IF ThisMove = 'L' THEN                  
+				RobotData[ParentPosition].LeftChild ← ChildPointer               
+			ELSE                  
+				RobotData[ParentPosition].RightChild ← ChildPointer               
+			ENDIF   
+		ENDIF   
+	ENDIF         
+ENDPROCEDURE
